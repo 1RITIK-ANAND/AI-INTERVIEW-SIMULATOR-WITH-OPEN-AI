@@ -1,0 +1,107 @@
+Name,Role,Topic,Question,Answer,Feedback
+lachimolala,Python Developer,OOP in Python,Can you explain the concept of inheritance in Object-Oriented Programming (OOP) in Python and provide an example of how you have used it in your code?,"Inheritance in Object-Oriented Programming (OOP) is a mechanism that allows a class (child class) to inherit properties and behaviors from another class (parent class). This promotes code reusability and establishes relationships between classes, forming a hierarchy. 
+
+","The candidate provided a clear and concise explanation of the concept of inheritance in OOP. However, they could improve by providing an example of how they have used inheritance in their code to demonstrate their understanding in a practical context. 
+
+I would rate this answer a 6 out of 10. 
+
+Improvement suggestion: Include a brief code example to illustrate how inheritance is implemented in Python."
+jiminipabo,Python Developer,OOP in Python,Can you explain the concept of inheritance in object-oriented programming and how it is implemented in Python?,"Inheritance is a fundamental concept in object-oriented programming (OOP) that allows a class (called a child or derived class) to inherit attributes and methods from another class (called a parent or base class). This promotes code reuse, modularity, and a hierarchical class structure. In this article, we'll explore inheritance in Python.
+","The candidate provided a good introduction to the concept of inheritance in object-oriented programming and how it is implemented in Python. However, the answer could be improved by providing more specific examples or code snippets to illustrate the concept in action. Additionally, the candidate could mention the use of the `super()` function in Python for invoking the parent class's methods. 
+
+Overall, I would rate the answer a 7 out of 10. It provides a good explanation but could benefit from more depth and examples.",7
+paramicia parapino,Data Analyst,Error Handling,"Can you explain the difference between exceptions and errors in Python, and how you would handle each in your code?","We all know an Excel spreadsheet when we are looking at it. Excel is widely famous for its simplicity, the “easy to understand” visualizations of datasets, and all you can do on Data Analysis with basic knowledge. But, is it the best? 
+
+Python allows us to work with Pandas – another tool for data analysts to master that offers a wider range of benefits. With all of what Excel can do, Pandas would reach beyond that and, in more advanced scenarios, it will be even easier to do. But when you read that you need some coding knowledge to use it, that first learning curve already starts pretty high for some people. 
+
+Is it like that? We will see at both Microsoft Excel and Python Pandas, which one is the best and how much it requires for anyone to get the best of each program.
+","I would rate this answer a 2 out of 10. The candidate completely avoided the question about exceptions and errors in Python and instead talked about Excel and Pandas. The response is not relevant to the question asked and does not demonstrate an understanding of the topic. 
+
+Improvement suggestions: 
+1. Stay focused on the topic at hand and directly address the question asked.
+2. Provide a clear explanation of the differences between exceptions and errors in Python, and how to handle each in code. 
+3. Dig deeper into the technical details and provide examples to demonstrate your knowledge.",2
+paramicia parapino,Data Analyst,SQL JOINS,"Can you explain the difference between an INNER JOIN and a LEFT JOIN in SQL, and provide an example of when you would use each type of join in a query?","t:
+
+Name	Amount
+Alice	500
+Bob	300
+Charlie	NULL
+Explanation: All customers are included, even if they haven't placed an order (e.g., Charlie).
+
+Key Difference
+Inner Join: Focuses on matching data only.
+Left Join: Ensures all data from the left table is included, even if there's no match in the right table.
+I hope this clears things up! Let me know if you'd like further clarification. 😊
+","Feedback: The candidate's explanation of the difference between an INNER JOIN and a LEFT JOIN is clear and concise. The example provided helps illustrate how each type of join works in practice. The candidate also offered further clarification if needed, which is a good sign of their willingness to engage with the interviewer.
+
+Rating: 9/10
+
+Improvements:
+- Provide a more in-depth example or scenario to further demonstrate the use cases of INNER JOIN and LEFT JOIN.
+- Mention any potential performance implications of using INNER JOIN vs. LEFT JOIN in queries.",9
+Niagra FOFO,Data Analyst,APIs,Can you explain the difference between using RESTful APIs and SOAP APIs in Python and when you would choose one over the other for a project?,"
+
+Name	Amount
+Alice	500
+Bob	300
+Charlie	NULL
+Explanation: All customers are included, even if they haven't placed an order (e.g., Charlie).
+
+Key Difference
+Inner Join: Focuses on matching data only.
+Left Join: Ensures all data from the left table is included, even if there's no match in the right table.
+I hope this clears things up! Let me know if you'd like further clarification. 😊
+","I would rate this answer a 2 out of 10. The candidate misunderstood the question and provided information about joining tables in SQL, which is not relevant to the question about RESTful APIs and SOAP APIs in Python. 
+
+Improvements:
+1. The candidate should have explained the key differences between RESTful APIs and SOAP APIs in Python.
+2. The candidate could have provided examples of when to choose one over the other for a project.
+3. It would be helpful for the candidate to provide a more detailed and accurate response to the specific question asked.",2
+Niagra FOFO,Data Analyst,Pandas vs Excel,"1. Can you explain the key differences between using Pandas and Excel for data analysis tasks?
+2. How do you use Excel to perform complex data analysis, such as pivot tables and VLOOKUP?
+3. Can you write a SQL query to retrieve all customers who made a purchase in the last month from a sales database?
+4. How do you use data visualization tools like Tableau or Power BI to create compelling visualizations from your data?
+5. What are some common statistical measures used in data analysis, such as mean, median, and standard deviation?
+6. When would you choose to use Pandas over Excel for data manipulation and analysis tasks?","
+
+Name	Amount
+Alice	500
+Bob	300
+Charlie	NULL
+Explanation: All customers are included, even if they haven't placed an order (e.g., Charlie).
+
+Key Difference
+Inner Join: Focuses on matching data only.
+Left Join: Ensures all data from the left table is included, even if there's no match in the right table.
+I hope this clears things up! Let me know if you'd like further clarification. 😊","Feedback:
+The candidate provided a SQL query response that wasn't directly related to the questions asked, which shows a lack of understanding of the topic. They also didn't address the key differences between using Pandas and Excel for data analysis tasks, how to perform complex data analysis in Excel, how to use data visualization tools, or common statistical measures used in data analysis. The provided response is inaccurate and doesn't align with the questions asked.
+
+Rating: 1/10
+
+Improvements:
+To improve, the candidate should address each question asked in the interview and provide relevant and accurate responses. They should also demonstrate their knowledge and experience in data analysis techniques, tools, and methodologies. Additionally, focusing on providing clear and concise explanations will help improve their responses in future interviews.",1
+Niagra FOFO,Frontend Developer,React Lifecycle,"1. Can you explain the different phases of the React component lifecycle and why they are important for building dynamic and interactive user interfaces?
+2. How would you handle responsive design in CSS to ensure your web application is optimized for various screen sizes and devices?
+3. Can you describe how you would use event handling in JavaScript to create interactive elements on a web page?
+4. In HTML, what is the purpose of semantic tags and how do they improve accessibility and SEO for a website?","
+
+Name	Amount
+Alice	500
+Bob	300
+Charlie	NULL
+Explanation: All customers are included, even if they haven't placed an order (e.g., Charlie).
+
+Key Difference
+Inner Join: Focuses on matching data only.
+Left Join: Ensures all data from the left table is included, even if there's no match in the right table.
+I hope this clears things up! Let me know if you'd like further clarification. 😊","Feedback:
+
+The candidate provided a response that is completely unrelated to the questions asked. It seems like they misunderstood the prompt and provided information on SQL joins instead of answering the questions related to React components, responsive design in CSS, event handling in JavaScript, and semantic tags in HTML.
+
+Rating: 1/10
+
+Improvements:
+1. The candidate should carefully read and understand the question before providing a response.
+2. They should address each question separately and provide relevant information related to React components, responsive design, event handling in JavaScript, and semantic tags in HTML.",1
+CHOKO NI POKO,Frontend Developer,Data Structures,What is the difference between a list and a tuple in Python? Can you provide an example of when you would use each data structure in a program?,KUHYHJB,"I would rate this answer a 1/10. The candidate did not provide a clear or coherent response to the question. The feedback provided is that the candidate needs to study and familiarize themselves with the difference between lists and tuples in Python, and provide a more detailed and relevant answer to the question. They should also practice giving examples of situations where each data structure would be used in a program.",1
